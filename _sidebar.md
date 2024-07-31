@@ -1,2 +1,2 @@
-- [Components List](README)
+- [Components List](components-list)
   - [List A](List A)
